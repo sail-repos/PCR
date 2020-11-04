@@ -1,0 +1,17 @@
+java.io.IOException
+java.io.Writer
+java.io.FileOutputStream
+java.io.BufferedWriter
+java.io.FileNotFoundException
+java.io.File
+org.apache.log4j.spi.ErrorCode
+org.apache.log4j.helpers.QuietWriter
+org.apache.log4j.helpers.LogLog
+org.apache.log4j.Layout
+org.apache.log4j.spi.LoggingEvent
+java.io.OutputStream
+java.io.OutputStreamWriter
+org.apache.log4j.spi.ErrorHandler
+org.apache.log4j.spi.Filter
+org.apache.log4j.spi.OptionHandler
+org.apache.log4j.helpers.OnlyOnceErrorHandler

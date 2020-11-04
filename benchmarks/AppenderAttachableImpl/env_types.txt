@@ -1,0 +1,6 @@
+org.apache.log4j.spi.AppenderAttachable
+org.apache.log4j.spi.LoggingEvent
+org.apache.log4j.Appender
+java.util.Vector
+java.util.Enumeration
+org.apache.log4j.ConsoleAppender

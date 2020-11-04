@@ -1,0 +1,14 @@
+java.io.IOException
+java.io.Reader
+java.security.AccessController
+java.security.PrivilegedActionException
+java.security.PrivilegedExceptionAction
+java.util.Map
+java.util.concurrent.ConcurrentHashMap
+org.apache.catalina.security.SecurityUtil
+org.apache.coyote.ActionCode
+org.apache.coyote.Request
+org.apache.tomcat.util.buf.B2CConverter
+org.apache.tomcat.util.buf.ByteChunk
+org.apache.tomcat.util.buf.CharChunk
+org.apache.tomcat.util.res.StringManager

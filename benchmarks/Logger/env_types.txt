@@ -1,0 +1,4 @@
+bug4779253.MyFilter
+java141.util.logging.Level
+java141.util.logging.LogRecord
+java141.util.logging.LogManager
